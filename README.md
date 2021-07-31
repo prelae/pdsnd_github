@@ -4,7 +4,7 @@
 The date created is 7/29/2021 with the initial commit.
 
 ### Project Title
-The project title is Udacity Github project for Bikeshare.
+The project title is Udacity Github project for Bikeshare. The project will be changed in 3 branches. One this one is done on refactoring.
 
 ### Description
 This is just an exercise project for exercising. The gist of the project is to create three branches with related changes to the files and then send them over
