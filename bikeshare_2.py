@@ -19,7 +19,7 @@ def get_filters():
     day_1 = ""
     
     print('Hello! Let\'s explore some US bikeshare data!')
-    # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs as well as capitalized or uncapitalized text and other mistakes made
+    # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs as well as capitalized or uncapitalized text and other mistakes made. Made a small change on the refactoring branch.
     city_1 = input("Enter the name of the city (Enter 'chicago\', 'new york city\' or 'washington\') ")
     city_lower = city_1.lower()
     while True:
