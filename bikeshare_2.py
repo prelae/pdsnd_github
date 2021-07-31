@@ -28,7 +28,7 @@ def get_filters():
         else:
             city_lower = input("Sorry, I didn't catch that. Enter chicago, new york city, or washington: ")
  
-    # TO DO: get user input for month (all, january, february, ... , june)
+    # TO DO: get user input for month (all, january, february, ... , june) Please enter the month as you like wether capitalized or uncapitalized.
     month_1 = ""
     month_1 = input("Enter the name of the month of any of the first 6 months or 'all\' ")
     month_lower = month_1.lower()
@@ -38,7 +38,7 @@ def get_filters():
         else:
             month_lower = input("Sorry, I didn't catch that. Enter any of the first 6 months or 'all\' ")
   
-    # TO DO: get user input for day of week (all, monday, tuesday, ... sunday
+    # TO DO: get user input for day of week (all, monday, tuesday, ... sunday) Please enter the day as you like wether capitalized or uncapitalized
     day_1 = input("Enter the name of the day or 'all\' ")
     day_lower = day_1.lower()
     day_capital = day_lower.capitalize()
